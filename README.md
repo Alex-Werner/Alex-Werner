@@ -14,8 +14,12 @@
 - [TyrDB](https://github.com/Alex-Werner/tyrdb) - Fast, easy, and instant-to-use database. Similar to Mongo it uses a subset of its query system. Local FS (perfect for MVP condition before just switching to a cloud instance). Uses modified contextual B+Tree for indexing.
 - [SBTree](https://github.com/Alex-Werner/sbtree) = Optimised document store using B+ Tree for fields. Adapters support for In-Memory and FileSystem
 
-For any item out of this list, I should consider it stable, but contact me on Twitter (@obusco) if you need me to get a look at it ! 
+For any item out of this list, I should consider it stable, but contact me on Twitter (@obusco) if you need me to get a look at it; with more than 150 repos, I tend to overlook PR and issues! 
 
+#### Currently self-financed side projects
+
+- [WindfallerAI](https://github.com/WindfallerAI) - Financial digital assistant; Familly-office's services for all wallets. (RWA ready)
+  
 --- 
 
-Currently looking for any type of opportunities around real world assets tokenisations.
+Currently looking for any opportunities around real-world assets tokenizations.

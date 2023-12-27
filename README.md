@@ -41,6 +41,9 @@ Those usually have no dependencies but whenever, Snyk monitoring is activated an
 
 > Helper package that allows you to subscribe to time events based on a standard CRON expression or a timeframe value.
 
+## [**FSLockJS**](https://github.com/Alex-Werner/fslockjs)
+[![NPM Version](https://img.shields.io/npm/v/fslockjs.svg?&style=flat-square)](https://www.npmjs.org/package/fslockjs)[![Release Date](https://img.shields.io/github/release-date/alex-werner/fslockjs)](https://github.com/alex-werner/fslockjs/releases/latest)
+
 
 For any item out of this list, I should consider it stable, but contact me on Twitter (@obusco) if you need me to get a look at it; with more than 150 repos, I tend to overlook PR and issues! 
 
